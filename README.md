@@ -1,2 +1,2 @@
 # ej06-branches
-Curso Git
+# Aquí hay un fichero readme.md
